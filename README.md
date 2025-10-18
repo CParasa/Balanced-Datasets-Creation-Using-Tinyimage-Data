@@ -1,0 +1,2 @@
+# Balanced-Datasets-Creation-Using-Tinyimage-Data
+From the original 200 classes, 100 classes were randomly selected to create a representative subset. For each of the 100 selected classes, 500 images were chosen exclusively from the original training dataset. Resulting in the following total number of images: Training set = 30, 000 images, Validation set = 10, 000 images, Test set = 10, 000 images
